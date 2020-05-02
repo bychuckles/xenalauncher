@@ -1,2 +1,0 @@
-# xenalauncher
-XenaLauncher Files
